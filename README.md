@@ -27,7 +27,9 @@
 
 Market-neutral sports arbitrage executed across 25+ regulated sportsbooks and prediction market venues (Kalshi, Polymarket integrated Jul 2026).
 
-Coverage across football, tennis, baseball, basketball, hockey, MMA, and esports. Pre-match and live arbitrage with custom-built P&L and risk tooling (SureControl).
+Coverage across football, tennis, baseball, basketball, hockey, MMA, and esports. Pre-match and live arbitrage across regulated venues.
+
+Currently building **SureControl**, a proprietary P&L, risk, and session-management tool tailored for high-frequency multi-venue execution.
 
 Returns are on rotated working capital (2–3× monthly rotation), not compounded. Every figure reconciled to source ledgers to the cent across all 20 months.
 
