@@ -29,7 +29,7 @@ Market-neutral sports arbitrage executed across 25+ regulated sportsbooks and pr
 
 Coverage across football, tennis, baseball, basketball, hockey, MMA, and esports. Pre-match and live arbitrage across regulated venues.
 
-Currently building **SureControl**, a proprietary P&L, risk, and session-management tool tailored for high-frequency multi-venue execution.
+Currently building **ArbDesk**, a proprietary P&L, risk, and session-management tool tailored for high-frequency multi-venue execution.
 
 Returns are on rotated working capital (2–3× monthly rotation), not compounded. Every figure reconciled to source ledgers to the cent across all 20 months.
 
